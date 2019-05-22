@@ -1,4 +1,6 @@
 # 2D_Platformer_Engine
+Can currently only be ran if you have love2d installed on your computer-
+
 Improved collision, physics, and level editing. only items and platforms can be placed in demo. 
 Controls:
 d key to change to debug mode,
