@@ -5,7 +5,7 @@ Improved collision, physics, and level editing. only items and platforms can be 
 Controls:
 d key to change to debug mode,
 left mouse click to place item in debug mode,
-right cilck to save the placement of items (might not work in .love),
+right cilck to save the placement of items (saving items only works in debug so when a .love is compiled the changes stay),
 
 left and right arrow keys to move,
 down to dash,
